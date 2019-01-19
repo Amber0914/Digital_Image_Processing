@@ -36,7 +36,7 @@ g++ $(pkg-config --cflags --libs opencv) histogram.cpp -o histogram
 ![](https://i.imgur.com/CPpG2oy.png)
 
 ## Losspass/Highpass Filter (3x3)
-Spatial Filtering is a useful way for reducing noises of image.
+Losspass/Highpass Filtering is a useful way for reducing noises of image.
 
 ### Command for  Compiler
 ```
